@@ -1,0 +1,1 @@
+char findmaxChar (char arr[], int size);

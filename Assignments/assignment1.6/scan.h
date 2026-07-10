@@ -1,0 +1,1 @@
+void scan(int arr[], int size);

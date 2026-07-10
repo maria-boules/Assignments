@@ -1,0 +1,1 @@
+int findcharFreq (char arr[], int size, char freq_char);
