@@ -1,0 +1,1 @@
+void modifyString(char *str);
