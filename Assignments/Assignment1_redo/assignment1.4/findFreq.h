@@ -1,0 +1,1 @@
+int findFreq (int arr[], int num);
